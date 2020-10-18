@@ -16,7 +16,7 @@ class Game:
     def render(self):
         pass
     
-    def cleanupe(self):
+    def cleanup(self):
         pg.quit()
     
     def handle_event(self, event):
